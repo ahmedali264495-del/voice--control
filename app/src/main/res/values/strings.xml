@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">التحكم الصوتي</string>
+    <string name="acc_label">التحكم الصوتي</string>
+    <string name="acc_desc">يسمح للتطبيق بالضغط والتمرير على الشاشة بناءً على أوامرك الصوتية.</string>
+</resources>
